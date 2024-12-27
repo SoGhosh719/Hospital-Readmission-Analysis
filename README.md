@@ -1,5 +1,3 @@
-# Hospital-Readmission-Analysis
-
 # Hospital Readmission Analysis (within 30 Days)
 
 ## Overview
