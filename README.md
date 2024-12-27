@@ -34,7 +34,7 @@ The analysis is based on a synthetic dataset (`train.csv`) with 25,000 records a
    - Built and evaluated a `RandomForestClassifier` to predict readmission likelihood.
 
 5. **Results**:
-   - Model achieved an accuracy of **X%** (replace with actual results).
+   - Model achieved an accuracy of **67.5%**.
    - Identified critical features influencing readmission.
 
 ## Key Findings
