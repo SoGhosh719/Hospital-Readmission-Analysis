@@ -41,16 +41,8 @@ The analysis is based on a synthetic dataset (`train.csv`) with 25,000 records a
 - Patients with higher **number_inpatient** visits had a significantly higher probability of readmission.
 - Medication adherence and age groups also played a significant role.
 
-## Visualizations
-![Sample Visualization](images/sample_visualization.png)
-
 ## Tools and Libraries
 - Python
 - pandas, matplotlib, seaborn
 - scikit-learn
 - Jupyter Notebook
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Hospital_Readmission_Analysis.git
